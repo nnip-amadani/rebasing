@@ -1,1 +1,3 @@
 Third file
+
+This line was added
